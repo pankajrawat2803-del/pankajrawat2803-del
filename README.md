@@ -1,79 +1,20 @@
-<div align="center">
+Hey there! 👋
 
-# 👋 Hi, I'm Pankaj Rawat
+I'm Pankaj, a Web dev engineer based in India.
 
-### 🚀 Full Stack Developer | MERN Stack | Problem Solver
+I design and build whatever I can imagine.
 
-Building scalable, responsive, and production-ready web applications with modern technologies.
+If an idea pops into my head, chances are I'll build it and ship it.
 
-<p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+My main tech stack is React, JavaScript, Node.js, Express, and MongoDB. My favorite tools are VS Code, Git, GitHub, and Postman.
 
-</div>
+I've built several projects across frontend and backend development, with a few of my favorites featured below.
 
----
+If you want to see what I'm building, check out my projects below!
 
-## 👨‍💻 About Me
+Fun Facts:
 
-I'm a **BTech student and Full Stack Developer** passionate about building complete web applications from frontend interfaces to backend APIs and databases.
-
-- 💻 Full Stack Developer focused on the **MERN Stack**
-- ⚛️ Experienced with **React.js, JavaScript, Node.js, Express.js & MongoDB**
-- 🔐 Building applications with **authentication and secure user flows**
-- 🌐 Interested in **deployment, scalability and production-ready applications**
-- 🧩 Practicing **Data Structures & Algorithms using C++**
-- 📚 Continuously learning new technologies and improving my development skills
-- 🎯 Aspiring to become a strong **Software Engineer**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,javascript" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-</p>
-
----
-
-## 🚀 What I Do
-
-```text
-       UI / Frontend
-             ↓
-     React + JavaScript
-             ↓
-        REST APIs
-             ↓
-     Node.js + Express
-             ↓
-         MongoDB
-             ↓
- Authentication & Security
-             ↓
-     Deployment & Scaling
+• I have a cat and a dog
+• I don't like coffee or tea
+• Tokyo Ghoul is my favorite anime
+• Hobbies: anime, football, building things
