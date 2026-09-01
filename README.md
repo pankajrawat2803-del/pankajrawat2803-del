@@ -1,6 +1,6 @@
 Hey there! 👋
 
-I'm [Pankaj](https://github.com/no_name), a Web Dev Engineer based in India 🇮🇳.
+I'm [Pankaj](https://github.com/pankajrawat2803-del), a Web Dev Engineer based in India 🇮🇳.
 
 I design and build whatever I can imagine. 💡
 
@@ -14,7 +14,7 @@ If you want to see what I'm building, check out my projects below! 👀
 
 ### Fun Facts:
 
-• 🐱 I have a cat and a dog 🐶
-• ☕ I don't like coffee or tea
-• 👹 Tokyo Ghoul is my favorite anime
+• 🐱 I have a cat and a dog 🐶  
+• ☕ I don't like coffee or tea  
+• 👹 Tokyo Ghoul is my favorite anime  
 • 🎮 Hobbies: anime, football, building things ⚽
