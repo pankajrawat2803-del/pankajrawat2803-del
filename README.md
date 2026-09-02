@@ -10,7 +10,7 @@ My main tech stack is React, JavaScript, Node.js, Express, and MongoDB. My favor
 
 I've built several projects across frontend and backend development, with a few of my favorites featured below. 💻
 
-If you want to see what I'm building, check out my projects below! 👀
+If you want to see what I'm building, check out my projects! 👀
 
 ### Fun Facts:
 
