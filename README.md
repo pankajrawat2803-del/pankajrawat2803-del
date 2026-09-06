@@ -14,7 +14,7 @@ If you want to see what I'm building, check out my projects! 👀
 
 ### Fun Facts:
 
-• 🐱 I have a cat and a dog 🐶  
-• ☕ I don't like coffee or tea  
+• 🐱 I have a cat  
+• ☕ I don't like sweets 
 • 👹 Tokyo Ghoul is my favorite anime  
-• 🎮 Hobbies: anime, football, building things ⚽
+• 🎮 Hobbies: anime, football, building things 
